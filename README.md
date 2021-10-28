@@ -1,1 +1,1 @@
-# -Malaria-Detection-using-Deep-Learning-ResNetModel-P5
+# Malaria-Detection-using-Deep-Learning-ResNetModel
